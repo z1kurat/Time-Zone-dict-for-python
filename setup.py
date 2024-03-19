@@ -12,7 +12,7 @@ setup(
   description='Time Zone dict',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='not',
+  url='https://github.com/z1kurat/Time-Zone-dict-for-python',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -20,7 +20,7 @@ setup(
     'License :: OSI Approved :: MIT License',
     'Operating System :: OS Independent'
   ],
-  keywords='example python',
+  keywords='time time_zone zone python dict',
   project_urls={
     'Documentation': 'link'
   },
