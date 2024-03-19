@@ -22,7 +22,9 @@ setup(
   ],
   keywords='time time_zone zone python dict',
   project_urls={
-    'Documentation': 'link'
+    'Documentation': 'https://example.com/docs',
+    'Source': 'https://github.com/z1kurat/Time-Zone-dict-for-python',
+    'Tracker': 'https://github.com/z1kurat/Time-Zone-dict-for-python/issues'
   },
   python_requires='>=3.7'
 )
